@@ -1,0 +1,3 @@
+---
+glightbox: false
+---
