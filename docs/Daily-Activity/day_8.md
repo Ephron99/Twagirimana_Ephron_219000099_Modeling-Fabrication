@@ -1,6 +1,4 @@
-
-
-# 9. Activity of Day 9
+# 8. Activity of Day 8
 
 ## Research
 
@@ -14,4 +12,3 @@
 * Download reference
 
 Links to reference files, PDF, booklets,
-
