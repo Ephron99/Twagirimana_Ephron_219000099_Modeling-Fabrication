@@ -30,36 +30,16 @@ I used Git, GitHub and GitHub Pages. I Created a GitHub Repository to my GitHub 
 
 ![git project file](../images/day_1/git.png){ width=600}
 
-#### Deploying Website 
-- Enabled GitHub Pages  : Activated the GitHub Pages feature in the repository settings, which allows the project files to be hosted as a live website directly from GitHub.
-- Deployed the site with a public URL : Once GitHub Pages was enabled, the site became accessible online via a public URL, making the documentation available to anyone without needing access to the repository. 
-
-![Daily Activities](../images/day_1/gitpages.png){ width=600}
 
 
-- GitHub repository link  
-https://github.com/AndrinahKaunda/Modelling-and-Fabrication.git
-
-- Live GitHub Pages URL  
-https://andrinahkaunda.github.io/Modelling-and-Fabrication/
-
-#### Result - Git Live Website
-![Daily Activities](../images/day_1/liveSite.png){ width = 600}
+GitHub Pages: 
+https://ephron99.github.io/Twagirimana_Ephron_219000099_Modeling-Fabrication/
 
 
+## Activity 3: Peer Review
+
+In this activity, I reviewed the documentation website created by Mr. Emile, which was developed using MkDocs with the Material for MkDocs and published via GitHub Pages on GitHub. The documentation included well-organized sections for activities and tasks, The pages loaded correctly, and the website was accessible online. 
+This peer review activity helped me understand the importance of clear structure, detailed explanations, and visual support in technical documentation. Reviewing another student’s work also provided ideas that I can use to improve my own documentation website.
 
 
-## Activity 3 – Peer Review
-
-For this activity, I reviewed **Nomsa Ndlozi’s documentation website** .
-
-Nomsa did a really good job in presenting her work and demonstrated a **strong understanding of the overall course content**. Her documentation clearly explained the modeling and fabrication concepts and the process she went through in designing.
-
-All the required exercises were completed and documented excellently. The workflow across the pages was clear, logical, and easy to follow, making the documentation reproducible for someone new to the course.
-
-We also worked together during some labs, and through collaboration and discussion, we were able to clarify concepts and support each other in different ways.
-
-Overall, her documentation reflected **good design thinking, clarity, and technical understanding**, making it a strong example of effective course documentation.
-
-![Peer Review – Nomsa’s Website](../images/day_1/nomsa.jpeg){ width=700 }
 
