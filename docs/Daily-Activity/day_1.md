@@ -2,13 +2,13 @@
 
 #### Activity 1: Building a Documentation Website with MkDocs Material
 
-Documentation is important in engineering and fabrication projects because it allows users and developers to understand how a system works. In this task, a documentation website was created using MkDocs with the Material for MkDocs theme. MkDocs is a static site generator designed for building project documentation using Markdown files. The Material theme enhances MkDocs by providing a modern interface, navigation features, and responsive design.
+Documentation is important in engineering and fabrication projects because it allows users and developers to understand how a system works. In this task, I created a documentation website  using MkDocs with the Material for MkDocs theme. MkDocs is a static site generator designed for building project documentation using Markdown files. The Material theme enhances MkDocs by providing a modern interface, navigation features, and responsive design.
 I Used Python,MkDocs and Material for MkDocs as Tools and Technologies
 
 
 ###### Installation Process I used
 
-- Install Python: python --version/pip --version
+- Install Python: python. Verifying "--version/pip --version"
 
 - Install MkDocs: pip install mkdocs (verify by "mkdocs --version")
 - Create a New MkDocs Project by using "mkdocs new my-project-name" command
@@ -25,10 +25,10 @@ I Used Python,MkDocs and Material for MkDocs as Tools and Technologies
 #### Activity 2: Publishing Documentation via GitHub Pages 
 
 After creating a documentation website using MkDocs, the next step was to publish the documentation online so it could be accessed by others through the internet. This was done using GitHub Pages, a service provided by GitHub that allows users to host static websites directly from a repository.
-I used Git, GitHub and GitHub Pages. I Created a GitHub Repository to my GitHub account, Initialize Git in the Project Folder by using Git commands in the **Git Bash terminal:** *git init*, *git add .*, *git add .*,*git commit -m ""*, *git remote add origin https://github.com/Ephron99/Twagirimana_Ephron_219000099_Modeling-Fabrication.git*, *git push -u origin main*. then Deploy the Site Using MkDocs *mkdocs gh-deploy*
+I used Git, GitHub and GitHub Pages. I Created a GitHub Repository to my GitHub account, Initialized Git in the Project Folder by using Git commands in the **Git Bash terminal:** *git init*, *git add .*, *git add .*,*git commit -m ""*, *git remote add origin https://github.com/Ephron99/Twagirimana_Ephron_219000099_Modeling-Fabrication.git*, *git push -u origin main*. then Deploy the Site Using MkDocs *mkdocs gh-deploy*
 
 
-![git project file](../images/day_1/git.png){ width=600}
+![git](../images/day_1/git.png){ width=600}
 
 
 

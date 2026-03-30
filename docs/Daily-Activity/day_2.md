@@ -10,10 +10,15 @@ An L-shaped mounting bracket is a mechanical component commonly used to support 
 
 I Created a new Body and Sketch.
 
-![](../images/day_2/first.png){ fgjhfdsdfsd=600 align=center }
+![](../images/day_2/Day2_Activity1_Schetch.png){ fgjhfdsdfsd=600 align=center }
 
-The final design produced a 3D L-shaped mounting bracket.
-![](../images/day_2/dimens.png){ width=600 align=center }
+I Applied the Pad on object.
+
+![](../images/day_2/Day2_Activity1_PAD.png){ fgjhfdsdfsd=600 align=center }
+
+
+The final design produced a 3D L-shaped with holes and Fillet.
+![](../images/day_2/Day2_Activity1_Hole_Fillet.png){ width=600 align=center }
 
 
 #### Activity 2: Designing a 2D Vector Press-Fit Box Panel
@@ -25,7 +30,7 @@ In this activity, I designed a press-fit box panel  using Inkscape.
 
 
 
-[ Freecad](../files/freecad/task1.FCStd){: .md-button:download }
+[ FreeCad Project](../files/Day2_Activity_L-Shaped_Project.FCStd){: .md-button:download }
 
 [ Press-Fit Box Panel](../files/Day2_press-fit_box.svg){: .md-button:download }
 
