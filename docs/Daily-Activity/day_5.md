@@ -14,7 +14,7 @@ These technologies enable precise manufacturing of parts from various materials 
 
 Laser Cutting uses a focused laser beam to cut or engrave materials with high precision. It is widely used for 2D fabrication and prototyping.
 
-Laser cutting works best with vector designs, which can be created using software such as Inkscape.
+Laser cutting works best with vector designs, which can be created using cutting machine software or others like Inkscape.
 
 ##### Preparing Designs for Fabrication
 
@@ -30,6 +30,14 @@ Important parameters are Cutting speed, Laser power, Tool diameter and Cutting d
  Ensuring proper ventilation during laser cutting and Never leaving machines unattended while operating
 
 From this session, I learned How digital designs are converted into machine instructions, How material properties influence fabrication processes and Basic safety procedures when operating fabrication equipment.
+
+#### Challenge
+
+During the Day 5 session on CNC and laser cutting, a challenge was encountered related to limited access to the Cutting machines.
+
+Although I were able to learn the theoretical concepts and observe the fabrication workflow, not every student had enough time to fabricate their own design during the scheduled session.
+
+This situation occurred because of the number of available machine was only one and every student had to design and cut.
 
 
 

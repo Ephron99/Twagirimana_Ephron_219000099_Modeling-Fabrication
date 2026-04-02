@@ -12,3 +12,11 @@ The machine follows instructions generated from software and moves along multipl
 
 !!! Safety
 Working with CNC requires proper safety practices. Keeping hands away from moving tools, and Monitoring the machine during operation.
+
+#### Challenge
+
+During the CNC router milling activity, some I encountered a problem while generating the toolpath for the design. The issue occurred when the software attempted to create the cutting path for the CNC router.
+
+toolpath appeared damaged, meaning that I were missing this activity, the CNC machine could not properly interpret the cutting instructions.
+
+This problem occurred during the preparation stage when converting the design into machining instructions for CNC Machining.

@@ -12,10 +12,12 @@ In this activity, I designed a single-sided microcontroller board using KiCad.
 
 I used ATtiny45 as board  and push button for user input, LED for output indication and ISP programming header for firmware uploading. The push button sends a signal to the microcontroller, which then controls the LED.
 
-Here there is a link for Gerber and Drill files
+I exported Gerber and Drill files that used in Milling & Cutting
+
+Here there is a link for Gerber and Drill files.
 
 
-https://drive.google.com/drive/u/0/folders/1y4lMK76694uaKMzMBxNPaoL0rJ5VQ1lw
+[Gerber and Drill files](https://drive.google.com/drive/u/0/folders/1y4lMK76694uaKMzMBxNPaoL0rJ5VQ1lw) 
 
 ## PCB Schematic
 ![](../images/day_3/Day3_design.png){ width=500 align=center }
