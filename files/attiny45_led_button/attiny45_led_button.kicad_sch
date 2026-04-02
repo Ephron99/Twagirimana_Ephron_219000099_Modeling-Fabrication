@@ -2044,7 +2044,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_2x03_P2.00mm_Vertical"
 			(at 152.4 71.12 0)
 			(effects
 				(font
@@ -2523,7 +2523,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 106.68 85.09 0)
 			(effects
 				(font
@@ -2717,7 +2717,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-102x"
 			(at 146.05 90.17 0)
 			(effects
 				(font
@@ -2787,7 +2787,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Module:Carambola2"
+		(property "Footprint" "LED_THT:LED_D4.0mm"
 			(at 125.73 63.5 0)
 			(effects
 				(font
@@ -2866,7 +2866,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 127.508 73.66 90)
 			(effects
 				(font
